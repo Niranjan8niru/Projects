@@ -1,4 +1,4 @@
--- Exploratory Data Analysis
+-- Exploratory Data Analysis using SQL --
 
 select * from layoffs_staging2;
 
